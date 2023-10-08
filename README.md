@@ -1,5 +1,7 @@
 # elichika
 
+Fork of https://github.com/YumeMichi/elichika
+
 Local Server for Love Live! All Stars Japanese / Global
 
 Clone this repository.
